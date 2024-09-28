@@ -18,7 +18,7 @@ Vue Jobs is a job posting site for VueJS developers, created in VueJS for practi
 Clone the repo:
 
 ```sh
-git clone https://essinn.github.com/vue-jobs/
+git clone https://github.com/essinn/vue-jobs/
 ```
 
 Install dependencies:
