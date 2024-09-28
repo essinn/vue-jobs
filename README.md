@@ -1,35 +1,44 @@
-# vue-jobs
+# Introduction
 
-This template should help get you started developing with Vue 3 in Vite.
+Vue Jobs is a job posting site for VueJS developers, created in VueJS for practice.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Browse posts
+- Fetching job data using axios
+- Using json-server for creating job data
+- Not found page
+- Tailwind for responsiveness
+- Create posts
+- Update posts
+- Delete posts
 
-## Customize configuration
+## Test out the project locally
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Clone the repo:
 
-## Project Setup
+```sh
+git clone https://essinn.github.com/vue-jobs/
+```
+
+Install dependencies:
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+Start the dev server:
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+run the json server:
 
 ```sh
-npm run build
+npm run server
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+---
 
-```sh
-npm run lint
-```
+Feel free to visit my other projects.
